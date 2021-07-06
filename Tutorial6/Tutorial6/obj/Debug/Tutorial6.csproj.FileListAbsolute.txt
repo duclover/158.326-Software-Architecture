@@ -1,0 +1,10 @@
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial6\Tutorial6\bin\Debug\Tutorial6.exe.config
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial6\Tutorial6\bin\Debug\Tutorial6.exe
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial6\Tutorial6\bin\Debug\Tutorial6.pdb
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial6\Tutorial6\obj\Debug\Tutorial6.csprojAssemblyReference.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial6\Tutorial6\obj\Debug\Tutorial6.Form1.resources
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial6\Tutorial6\obj\Debug\Tutorial6.Properties.Resources.resources
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial6\Tutorial6\obj\Debug\Tutorial6.csproj.GenerateResource.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial6\Tutorial6\obj\Debug\Tutorial6.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial6\Tutorial6\obj\Debug\Tutorial6.exe
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial6\Tutorial6\obj\Debug\Tutorial6.pdb

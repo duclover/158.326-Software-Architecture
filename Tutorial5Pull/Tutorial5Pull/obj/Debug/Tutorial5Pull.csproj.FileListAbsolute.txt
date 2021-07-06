@@ -1,0 +1,9 @@
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial5Pull\Tutorial5Pull\obj\Debug\Tutorial5Pull.csprojAssemblyReference.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial5Pull\Tutorial5Pull\obj\Debug\Tutorial5Pull.Properties.Resources.resources
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial5Pull\Tutorial5Pull\obj\Debug\Tutorial5Pull.csproj.GenerateResource.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial5Pull\Tutorial5Pull\obj\Debug\Tutorial5Pull.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial5Pull\Tutorial5Pull\bin\Debug\Tutorial5Pull.exe.config
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial5Pull\Tutorial5Pull\bin\Debug\Tutorial5Pull.exe
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial5Pull\Tutorial5Pull\bin\Debug\Tutorial5Pull.pdb
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial5Pull\Tutorial5Pull\obj\Debug\Tutorial5Pull.exe
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial5Pull\Tutorial5Pull\obj\Debug\Tutorial5Pull.pdb

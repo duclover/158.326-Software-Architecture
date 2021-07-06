@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Tutorial7Pizza.Pizza">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tutorial7Pizza.CheesePizza">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>CheesePizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tutorial7Pizza.FunghiPizza">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>FunghiPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tutorial7Pizza.HamPizza">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>HamPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tutorial7Pizza.SimplePizzaFactory">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SimplePizzaFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tutorial7Pizza.PizzaStore">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAACAAAAAAA=</HashCode>
+      <FileName>PizzaStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

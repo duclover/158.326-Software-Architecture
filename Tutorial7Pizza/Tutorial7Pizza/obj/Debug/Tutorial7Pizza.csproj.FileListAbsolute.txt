@@ -1,0 +1,11 @@
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7Pizza\Tutorial7Pizza\bin\Debug\Tutorial7Pizza.exe.config
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7Pizza\Tutorial7Pizza\bin\Debug\Tutorial7Pizza.exe
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7Pizza\Tutorial7Pizza\bin\Debug\Tutorial7Pizza.pdb
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7Pizza\Tutorial7Pizza\obj\Debug\Tutorial7Pizza.csprojAssemblyReference.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7Pizza\Tutorial7Pizza\obj\Debug\Tutorial7Pizza.Form1.resources
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7Pizza\Tutorial7Pizza\obj\Debug\Tutorial7Pizza.HomeOrder.resources
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7Pizza\Tutorial7Pizza\obj\Debug\Tutorial7Pizza.Properties.Resources.resources
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7Pizza\Tutorial7Pizza\obj\Debug\Tutorial7Pizza.csproj.GenerateResource.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7Pizza\Tutorial7Pizza\obj\Debug\Tutorial7Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7Pizza\Tutorial7Pizza\obj\Debug\Tutorial7Pizza.exe
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7Pizza\Tutorial7Pizza\obj\Debug\Tutorial7Pizza.pdb

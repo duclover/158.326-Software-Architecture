@@ -1,0 +1,10 @@
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7VTNZ\Tutorial7VTNZ\obj\Debug\Tutorial7VTNZ.csprojAssemblyReference.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7VTNZ\Tutorial7VTNZ\obj\Debug\Tutorial7VTNZ.Form1.resources
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7VTNZ\Tutorial7VTNZ\obj\Debug\Tutorial7VTNZ.Properties.Resources.resources
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7VTNZ\Tutorial7VTNZ\obj\Debug\Tutorial7VTNZ.csproj.GenerateResource.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7VTNZ\Tutorial7VTNZ\obj\Debug\Tutorial7VTNZ.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7VTNZ\Tutorial7VTNZ\bin\Debug\Tutorial7VTNZ.exe.config
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7VTNZ\Tutorial7VTNZ\bin\Debug\Tutorial7VTNZ.exe
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7VTNZ\Tutorial7VTNZ\bin\Debug\Tutorial7VTNZ.pdb
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7VTNZ\Tutorial7VTNZ\obj\Debug\Tutorial7VTNZ.exe
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial7VTNZ\Tutorial7VTNZ\obj\Debug\Tutorial7VTNZ.pdb

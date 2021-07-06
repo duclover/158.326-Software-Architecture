@@ -1,0 +1,6 @@
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial11\Tutorial11\obj\Debug\Tutorial11.csprojAssemblyReference.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial11\Tutorial11\obj\Debug\Tutorial11.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial11\Tutorial11\bin\Debug\Tutorial11.dll
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial11\Tutorial11\bin\Debug\Tutorial11.pdb
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial11\Tutorial11\obj\Debug\Tutorial11.dll
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial11\Tutorial11\obj\Debug\Tutorial11.pdb

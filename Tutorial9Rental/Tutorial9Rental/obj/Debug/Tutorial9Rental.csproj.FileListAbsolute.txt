@@ -1,0 +1,6 @@
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial9Rental\Tutorial9Rental\bin\Debug\Tutorial9Rental.dll
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial9Rental\Tutorial9Rental\bin\Debug\Tutorial9Rental.pdb
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial9Rental\Tutorial9Rental\obj\Debug\Tutorial9Rental.csprojAssemblyReference.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial9Rental\Tutorial9Rental\obj\Debug\Tutorial9Rental.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial9Rental\Tutorial9Rental\obj\Debug\Tutorial9Rental.dll
+C:\Users\Benjamin\Desktop\158326\VS\Tutorial9Rental\Tutorial9Rental\obj\Debug\Tutorial9Rental.pdb

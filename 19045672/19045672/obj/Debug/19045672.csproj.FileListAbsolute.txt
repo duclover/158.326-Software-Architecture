@@ -1,0 +1,10 @@
+C:\Users\Benjamin\Desktop\158326\VS\19045672\19045672\bin\Debug\19045672.exe.config
+C:\Users\Benjamin\Desktop\158326\VS\19045672\19045672\bin\Debug\19045672.exe
+C:\Users\Benjamin\Desktop\158326\VS\19045672\19045672\bin\Debug\19045672.pdb
+C:\Users\Benjamin\Desktop\158326\VS\19045672\19045672\obj\Debug\19045672.csprojAssemblyReference.cache
+C:\Users\Benjamin\Desktop\158326\VS\19045672\19045672\obj\Debug\_19045672.Form1.resources
+C:\Users\Benjamin\Desktop\158326\VS\19045672\19045672\obj\Debug\_19045672.Properties.Resources.resources
+C:\Users\Benjamin\Desktop\158326\VS\19045672\19045672\obj\Debug\19045672.csproj.GenerateResource.cache
+C:\Users\Benjamin\Desktop\158326\VS\19045672\19045672\obj\Debug\19045672.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\158326\VS\19045672\19045672\obj\Debug\19045672.exe
+C:\Users\Benjamin\Desktop\158326\VS\19045672\19045672\obj\Debug\19045672.pdb
